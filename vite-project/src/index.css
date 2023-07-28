@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg{
+    background: linear-gradient(rgb(0 0 0 / 66%), rgb(0 0 0 / 63%)), url(https://i.pinimg.com/originals/78/38/d5/7838d5e1d3fab20dc0a6b4139bedbf00.gif);
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+  }
